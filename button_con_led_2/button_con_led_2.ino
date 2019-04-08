@@ -2,7 +2,7 @@
 // prende secuencialmente un led cada vez que se presiona el boton
 // probando ramas
 //version 1
-// se modifica para probar issue #1
+// se modifica para probar issue #1 y se vuelve a modificar
 
 int const led1 = 11;
 int const led2 = 12;
