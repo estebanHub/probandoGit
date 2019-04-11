@@ -1,10 +1,10 @@
 //pruebas con una rama nueva
+//Pruebas en un flok
 int const led1 = 11;
 int const led2 = 12;
 int const led3 = 13;
 int const button = 3;
 int estado = 0;
-//int aux = 0;
 
 
 
